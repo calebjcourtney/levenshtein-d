@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Caleb Courtney"
+	],
+	"copyright": "Nope",
+	"description": "Simple Levenshtein distance implementation.",
+	"license": "Creative Commons",
+	"name": "levenshtein-d"
+}
